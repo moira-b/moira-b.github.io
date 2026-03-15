@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moira B.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Moira B.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 03:53:38 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Portfolio</title>
+      <link>http://localhost:1313/posts/game-portfolio/</link>
+      <pubDate>Mon, 16 Mar 2026 03:53:38 +0800</pubDate>
+      <guid>http://localhost:1313/posts/game-portfolio/</guid>
+      <description>&lt;h3 id=&#34;completed&#34;&gt;Completed&lt;/h3&gt;&#xA;&lt;p&gt;ISCS Game: Tile-Based Game Demo&#xA;ISCS Game: Platformer Game Demo&#xA;ISCS Game: Shmup Game Demo&#xA;ISCS Game: Turn-Based Game Demo&#xA;ISCS Game: OTS Shooter Game Demo&lt;/p&gt;&#xA;&lt;h3 id=&#34;ongoing&#34;&gt;Ongoing&lt;/h3&gt;&#xA;&lt;p&gt;Put thesis information here&lt;/p&gt;&#xA;&lt;p&gt;Put ongoing NSTP project information here&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
